@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Stalbek Ulanbek uulu, BSc of CS at McGill University.</h1>
-<h3 align="center">Ready to help with anything.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stallbek&label=Profile%20views&color=0e75b6&style=flat" alt="stallbek" /> </p>
 
